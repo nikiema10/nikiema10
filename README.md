@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 <!--
 **nikiema10/nikiema10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Nikiema Saidou
+- ✌ Je suis une personne patiente. 
+- ✔ je suis en formation en webdev à Sirius school .
+- j'apprends actuellement le Html et le Css .
+  
+ # Comment me joindre 
+ - 📫 nikiema59@gmail.com
+  
+  
+# loisirs 
+- jeux video 
+- musique 
+  
+
+
+  
+  
+
+
